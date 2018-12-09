@@ -1,0 +1,1 @@
+npm install @material-ui/core@1.4.3     //must use 1.4.3 or else it will fuck something up.
